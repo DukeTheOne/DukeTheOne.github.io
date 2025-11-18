@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My First Blog</title>
+    <link>http://DukeTheOne.github.io/posts/</link>
+    <description>Recent content in Posts on My First Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Nov 2025 22:11:15 +0800</lastBuildDate><atom:link href="http://DukeTheOne.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelloWorld</title>
+      <link>http://DukeTheOne.github.io/posts/helloworld/</link>
+      <pubDate>Tue, 18 Nov 2025 22:11:15 +0800</pubDate>
+      
+      <guid>http://DukeTheOne.github.io/posts/helloworld/</guid>
+      <description>Hello World This is my first page on the blog. In this article, I will share how to set up your own blog. Using github SSH to publish your personal blog site for free. And polishing the layout with HUGO, bringing the blog to the next level. For people who wants to start their own blog, this is the step by step hand on walk through. And I promise it will be easy and fun.</description>
+    </item>
+    
+  </channel>
+</rss>
