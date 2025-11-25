@@ -52,7 +52,7 @@ The layer that creates/manages VMs is the **virtual machine monitor** (VMM) or *
 
 #### Emulator
 
-> Emulator can simulate different CPU types. For example, BlueStacks can run Android enviroment on computer.
+> Emulator can simulate different CPU types. For example, BlueStacks can run Android environment on computer.
 
 #### VM vs Container
 
