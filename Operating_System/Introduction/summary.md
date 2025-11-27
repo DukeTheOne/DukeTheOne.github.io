@@ -1,6 +1,6 @@
 ---
-title : Introduction-1.12
-description : chapter 1.12 of the <Operating System Concepts>
+title : Introduction-Summary
+description : chapter 1, summary of the <Operating System Concepts>
 tags : [os, notes, ]
 ---
 
@@ -8,7 +8,7 @@ tags : [os, notes, ]
 
 ---
 
-## 1.12 - Summary
+## Summary
 
 1. Two roles of OS: resource manager + extended machine
 2. Interrupt vs trap; system call uses trap
